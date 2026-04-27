@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/lisihao/mlx-env/bin/python3
 """
 ThunderOMLX 8B Inference Demo
 Runs on mac mini with mlx_lm
